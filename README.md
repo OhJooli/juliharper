@@ -1,15 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julishiamor Harper
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Call me OhJooli
 ==========================================================================================================================================
 
 I am a Software Developer
 -------------------------
 
-I am an enthusiastic coder that adores learning and producing new and easily implemented software applications. I aspire to seek opportunities here on LinkedIn that will assist in my journey as a Software Developer. I have been exceptionally involved with popular Q&A programmer sites and Internet hosting sites to create useful and open-source projects. I am a graduate of Florida Southwestern State College with my AA in General Studies and am currently enrolled in Western Governors University for a BS in Software Development.
+I am an enthusiastic gamer and FiveM Developer who likes to stream a lil too much.
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at [julishiamorharper@gmail.com](mailto:julishiamorharper@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Python Projects
+* ✉️  You can contact me at [ohjoolittv@gmail.com](mailto:ohjoolittv@gmail.com)
 
 ### Skills
 
@@ -23,11 +21,6 @@ I am an enthusiastic coder that adores learning and producing new and easily imp
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/juliharper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juliharper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/juliharper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
